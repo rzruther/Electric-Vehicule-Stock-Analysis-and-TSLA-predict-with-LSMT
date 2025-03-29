@@ -1,4 +1,4 @@
-**Electric Vehicule Stock Analysis and TSLA stock price predict using LSMT**
+# Electric Vehicule Stock Analysis and TSLA stock price predict using LSMT
 
 This is a file that analize the stock market of Electric Vehicules, I analyze in this file the next price stocks: TSLA (Tesla), BYD (BYD company), MG (General Motors) and F (Ford)
 
